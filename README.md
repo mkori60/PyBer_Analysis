@@ -6,6 +6,8 @@ The purpose of this project is to use Jupyter notebook, Python, Pandas, and MatP
 
 <img width="1004" alt="Screen Shot 2021-06-12 at 7 08 13 PM" src="https://user-images.githubusercontent.com/83051034/121792523-32650d80-cbb3-11eb-8e87-a72153d94ab5.png">
 
+The line graph clearly shows that urban cities are the most profitable of the three city types. 
+
 * Urban cities have 13 times more total rides than rural cities. 
 * Urban cities have 2.6 times more total rides than suburban cities. 
 * Suburban cities have 5 times more total rides than rural cities. 
